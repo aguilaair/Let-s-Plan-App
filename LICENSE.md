@@ -1,7 +1,7 @@
 BSD 3-Clause License
 
 Copyright (c) 2020, Sourav Kumar Suman
-Copyright (c) 2020, Eduardo Moreno Adanez.
+Copyright (c) 2021, Eduardo Moreno Adanez
 
 All rights reserved.
 
